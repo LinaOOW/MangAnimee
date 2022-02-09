@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>ONE PIECE STAMPEDE</title> 
+	 <meta charset="uft-8"/>
+	 <style>
+     body {
+     background-image:url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.themoviedb.org%2Fmovie%2F568012-one-piece-stampede%2Fimages%2Fbackdrops%3Flanguage%3Dfr-FR&psig=AOvVaw0OTo1ZIptq4650dqv5mgR9&ust=1644512489246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjxzsiM8_UCFQAAAAAdAAAAABAI');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     }
+     h1 {
+     text-shadow: 3px 2px #000;
+     }
+     h1 {
+     background: linear-gradient(to right, red, red);
+     -webkit-background-clip: text;
+	 -webkit-text-fill-color: transparent;
+     }
+     </style>
+</body>
+  </head>
+  <body>
+  <center>
+    <h1 style="color:red;">ONE PIECE STAMPEDE VOSTFR</h1>
+  </center>
+  <center>
+    <table>
+  <tr>
+    <td><mark>Film<mark></td>
+  </tr>
+  <tr>
+    <td><a href="https://fs.myvi.ru/video/2802605.mp4?uid=&puid=&ref=https%3a%2f%2fvostfree.tv&d=6066&rnd=1983891048&sig=72662ec2d11857d3b5fd707b8ee3589b"><img src="https://static.wikia.nocookie.net/onepiece/images/c/c7/One_Piece_Stampede_Infobox.png/revision/latest?cb=20200426151721&path-prefix=fr"style="width:400px;height:430px;"></a></td>
+  </tr>
+     </table>
+  </center>
+  </body>
+</html>
